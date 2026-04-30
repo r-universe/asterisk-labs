@@ -6,4 +6,4 @@
 	path = cozip
 	url = https://github.com/asterisk-labs/taco
 	branch = main
-	subdir = cozip/R
+	subdir = cozip/r
