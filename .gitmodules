@@ -4,6 +4,6 @@
 	branch = HEAD
 [submodule "cozip"]
 	path = cozip
-	url = https://github.com/asterisk-labs/taco
+	url = https://github.com/asterisk-labs/cozip
 	branch = main
-	subdir = cozip/r
+	subdir = r
