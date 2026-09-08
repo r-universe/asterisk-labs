@@ -7,3 +7,8 @@
 	url = https://github.com/asterisk-labs/cozip
 	branch = main
 	subdir = r
+[submodule "taco"]
+	path = taco
+	url = https://github.com/asterisk-labs/taco
+	branch = main
+	subdir = r
