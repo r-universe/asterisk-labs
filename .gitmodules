@@ -7,6 +7,11 @@
 	url = https://github.com/asterisk-labs/cozip
 	branch = main
 	subdir = r
+[submodule "geozl"]
+	path = geozl
+	url = https://github.com/asterisk-labs/geozl
+	branch = main
+	subdir = bindings/r
 [submodule "taco"]
 	path = taco
 	url = https://github.com/asterisk-labs/taco
