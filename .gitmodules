@@ -12,6 +12,11 @@
 	url = https://github.com/asterisk-labs/geozl
 	branch = main
 	subdir = bindings/r
+[submodule "rumi"]
+	path = rumi
+	url = https://github.com/asterisk-labs/rumi
+	branch = main
+	subdir = bindings/r
 [submodule "taco"]
 	path = taco
 	url = https://github.com/asterisk-labs/taco
